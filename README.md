@@ -201,3 +201,5 @@ You can disable or enable telemetry anytime in one of the following ways:
 
 * Set the `CIRCLECI_CLI_TELEMETRY_OPTOUT` environment variable to `1` or `true` to disable it
 
+
+<!-- Updated on 2025-08-28 12:40:32 by automated script -->
